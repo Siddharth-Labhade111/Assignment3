@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Custom App</string>
+    <string name="text1">Welcome to MainActivity</string>
+    <string name="text2">Android Development is fun</string>
+    <string name="text3">This is Kotlin</string>
+    <string name="text4">Click the button to continue</string>
+    <string name="text5">Data transfer example</string>
+    <string name="main_button">Go to Second Screen</string>
+    <string name="second_button">Go to Third Screen</string>
+</resources>
